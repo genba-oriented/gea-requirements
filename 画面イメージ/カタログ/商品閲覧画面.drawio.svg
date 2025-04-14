@@ -1,0 +1,721 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="742px" height="751px" viewBox="-0.5 -0.5 742 751" content="&lt;mxfile&gt;&lt;diagram id=&quot;5Xm6rB3zyoqt6tOLthzw&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <g>
+            <rect x="0" y="0" width="550" height="750" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <rect x="10" y="10" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 30px; margin-left: 11px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    フリマアプリ
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="60" y="34" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        フリマアプリ
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="16" y="144" width="160" height="170" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <rect x="53.5" y="149" width="85" height="85" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 88.27 174.11 C 91.47 174.11 94.07 176.71 94.07 179.91 C 94.07 183.1 91.47 185.7 88.27 185.7 C 85.08 185.7 82.48 183.1 82.48 179.91 C 82.48 176.71 85.08 174.11 88.27 174.11 Z M 88.27 189.57 C 93.6 189.57 97.93 185.24 97.93 179.91 C 97.93 174.58 93.6 170.25 88.27 170.25 C 82.95 170.25 78.61 174.58 78.61 179.91 C 78.61 185.24 82.95 189.57 88.27 189.57 Z M 57.36 230.14 L 57.36 211.62 L 72.82 196.16 L 102.36 225.71 L 105.09 222.98 L 90.04 207.92 L 111.45 186.5 L 134.64 209.69 L 134.64 230.14 Z M 134.64 152.86 L 134.64 204.22 L 112.82 182.41 C 112.07 181.65 110.84 181.65 110.09 182.41 L 87.31 205.19 L 74.18 192.07 C 73.43 191.31 72.21 191.31 71.45 192.07 L 57.36 206.15 L 57.36 152.86 Z M 136.57 149 L 55.43 149 C 54.36 149 53.5 149.86 53.5 150.93 L 53.5 232.07 C 53.5 233.14 54.36 234 55.43 234 L 136.57 234 C 137.64 234 138.5 233.14 138.5 232.07 L 138.5 150.93 C 138.5 149.86 137.64 149 136.57 149 Z" fill="#ed7100" stroke="none" pointer-events="all" style="fill: rgb(237, 113, 0);"/>
+        </g>
+        <g>
+            <rect x="16" y="236" width="140" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 256px; margin-left: 86px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    【美品
+                                    <span style="color: rgb(0, 0, 0);">
+                                        】有名メーカの
+                                    </span>
+                                    <div>
+                                        <span style="color: rgb(0, 0, 0);">
+                                            テニスシューズ
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="86" y="260" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        【美品】有名メーカの
+テニスシューズ
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="53.5" y="274" width="70" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 289px; margin-left: 89px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    5,000円
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="89" y="293" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        5,000円
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="209" y="82" width="115" height="26" fill="#f5f5f5" stroke="#666666" pointer-events="all" style="fill: rgb(245, 245, 245); stroke: rgb(102, 102, 102);"/>
+        </g>
+        <g>
+            <rect x="213" y="85.75" width="20" height="21" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 226.15 98.94 C 228.55 98.94 231.74 96.76 231.74 93.07 C 231.74 89.29 228.76 87.01 226.15 87.01 C 222.67 87.01 220.36 89.8 220.36 93.07 C 220.36 96.58 223.29 98.94 226.15 98.94 Z M 215.93 106 C 215.15 106.75 214.11 106.7 213.55 106.07 C 213 105.38 213.04 104.42 213.65 103.68 L 218.43 98.66 C 218.84 98.29 219.45 98.05 219.92 98.16 L 220.6 97.44 C 219.82 96.32 219.19 95.04 219.14 93.07 C 219.14 89.43 221.82 85.75 226.15 85.75 C 229.94 85.75 233 89.04 233 93.07 C 233 97.06 229.78 100.23 226.15 100.23 C 224.61 100.2 223.16 99.78 221.84 98.71 L 221.16 99.43 C 221.2 99.99 221.07 100.48 220.73 100.9 Z" fill="#505050" stroke="none" pointer-events="all" style="fill: rgb(80, 80, 80);"/>
+        </g>
+        <g>
+            <rect x="191" y="144" width="160" height="170" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <rect x="228.5" y="149" width="85" height="85" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 263.27 174.11 C 266.47 174.11 269.07 176.71 269.07 179.91 C 269.07 183.1 266.47 185.7 263.27 185.7 C 260.08 185.7 257.48 183.1 257.48 179.91 C 257.48 176.71 260.08 174.11 263.27 174.11 Z M 263.27 189.57 C 268.6 189.57 272.93 185.24 272.93 179.91 C 272.93 174.58 268.6 170.25 263.27 170.25 C 257.95 170.25 253.61 174.58 253.61 179.91 C 253.61 185.24 257.95 189.57 263.27 189.57 Z M 232.36 230.14 L 232.36 211.62 L 247.82 196.16 L 277.36 225.71 L 280.09 222.98 L 265.04 207.92 L 286.45 186.5 L 309.64 209.69 L 309.64 230.14 Z M 309.64 152.86 L 309.64 204.22 L 287.82 182.41 C 287.07 181.65 285.84 181.65 285.09 182.41 L 262.31 205.19 L 249.18 192.07 C 248.43 191.31 247.21 191.31 246.45 192.07 L 232.36 206.15 L 232.36 152.86 Z M 311.57 149 L 230.43 149 C 229.36 149 228.5 149.86 228.5 150.93 L 228.5 232.07 C 228.5 233.14 229.36 234 230.43 234 L 311.57 234 C 312.64 234 313.5 233.14 313.5 232.07 L 313.5 150.93 C 313.5 149.86 312.64 149 311.57 149 Z" fill="#ed7100" stroke="none" pointer-events="all" style="fill: rgb(237, 113, 0);"/>
+        </g>
+        <g>
+            <rect x="191" y="236" width="140" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 256px; margin-left: 261px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    【美品
+                                    <span style="color: rgb(0, 0, 0);">
+                                        】有名メーカの
+                                    </span>
+                                    <div>
+                                        <span style="color: rgb(0, 0, 0);">
+                                            テニスシューズ
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="261" y="260" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        【美品】有名メーカの
+テニスシューズ
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="228.5" y="274" width="70" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 289px; margin-left: 264px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    5,000円
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="264" y="293" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        5,000円
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="366" y="144" width="160" height="170" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <rect x="403.5" y="149" width="85" height="85" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 438.27 174.11 C 441.47 174.11 444.07 176.71 444.07 179.91 C 444.07 183.1 441.47 185.7 438.27 185.7 C 435.08 185.7 432.48 183.1 432.48 179.91 C 432.48 176.71 435.08 174.11 438.27 174.11 Z M 438.27 189.57 C 443.6 189.57 447.93 185.24 447.93 179.91 C 447.93 174.58 443.6 170.25 438.27 170.25 C 432.95 170.25 428.61 174.58 428.61 179.91 C 428.61 185.24 432.95 189.57 438.27 189.57 Z M 407.36 230.14 L 407.36 211.62 L 422.82 196.16 L 452.36 225.71 L 455.09 222.98 L 440.04 207.92 L 461.45 186.5 L 484.64 209.69 L 484.64 230.14 Z M 484.64 152.86 L 484.64 204.22 L 462.82 182.41 C 462.07 181.65 460.84 181.65 460.09 182.41 L 437.31 205.19 L 424.18 192.07 C 423.43 191.31 422.21 191.31 421.45 192.07 L 407.36 206.15 L 407.36 152.86 Z M 486.57 149 L 405.43 149 C 404.36 149 403.5 149.86 403.5 150.93 L 403.5 232.07 C 403.5 233.14 404.36 234 405.43 234 L 486.57 234 C 487.64 234 488.5 233.14 488.5 232.07 L 488.5 150.93 C 488.5 149.86 487.64 149 486.57 149 Z" fill="#ed7100" stroke="none" pointer-events="all" style="fill: rgb(237, 113, 0);"/>
+        </g>
+        <g>
+            <rect x="366" y="236" width="140" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 256px; margin-left: 436px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    【美品
+                                    <span style="color: rgb(0, 0, 0);">
+                                        】有名メーカの
+                                    </span>
+                                    <div>
+                                        <span style="color: rgb(0, 0, 0);">
+                                            テニスシューズ
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="436" y="260" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        【美品】有名メーカの
+テニスシューズ
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="403.5" y="274" width="70" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 289px; margin-left: 439px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    5,000円
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="439" y="293" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        5,000円
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="15" y="330" width="160" height="170" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <rect x="52.5" y="335" width="85" height="85" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 87.27 360.11 C 90.47 360.11 93.07 362.71 93.07 365.91 C 93.07 369.1 90.47 371.7 87.27 371.7 C 84.08 371.7 81.48 369.1 81.48 365.91 C 81.48 362.71 84.08 360.11 87.27 360.11 Z M 87.27 375.57 C 92.6 375.57 96.93 371.24 96.93 365.91 C 96.93 360.58 92.6 356.25 87.27 356.25 C 81.95 356.25 77.61 360.58 77.61 365.91 C 77.61 371.24 81.95 375.57 87.27 375.57 Z M 56.36 416.14 L 56.36 397.62 L 71.82 382.16 L 101.36 411.71 L 104.09 408.98 L 89.04 393.92 L 110.45 372.5 L 133.64 395.69 L 133.64 416.14 Z M 133.64 338.86 L 133.64 390.22 L 111.82 368.41 C 111.07 367.65 109.84 367.65 109.09 368.41 L 86.31 391.19 L 73.18 378.07 C 72.43 377.31 71.21 377.31 70.45 378.07 L 56.36 392.15 L 56.36 338.86 Z M 135.57 335 L 54.43 335 C 53.36 335 52.5 335.86 52.5 336.93 L 52.5 418.07 C 52.5 419.14 53.36 420 54.43 420 L 135.57 420 C 136.64 420 137.5 419.14 137.5 418.07 L 137.5 336.93 C 137.5 335.86 136.64 335 135.57 335 Z" fill="#ed7100" stroke="none" pointer-events="all" style="fill: rgb(237, 113, 0);"/>
+        </g>
+        <g>
+            <rect x="15" y="422" width="140" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 442px; margin-left: 85px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    【美品
+                                    <span style="color: rgb(0, 0, 0);">
+                                        】有名メーカの
+                                    </span>
+                                    <div>
+                                        <span style="color: rgb(0, 0, 0);">
+                                            テニスシューズ
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="85" y="446" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        【美品】有名メーカの
+テニスシューズ
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="52.5" y="460" width="70" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 475px; margin-left: 88px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    5,000円
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="88" y="479" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        5,000円
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="190" y="330" width="160" height="170" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <rect x="227.5" y="335" width="85" height="85" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 262.27 360.11 C 265.47 360.11 268.07 362.71 268.07 365.91 C 268.07 369.1 265.47 371.7 262.27 371.7 C 259.08 371.7 256.48 369.1 256.48 365.91 C 256.48 362.71 259.08 360.11 262.27 360.11 Z M 262.27 375.57 C 267.6 375.57 271.93 371.24 271.93 365.91 C 271.93 360.58 267.6 356.25 262.27 356.25 C 256.95 356.25 252.61 360.58 252.61 365.91 C 252.61 371.24 256.95 375.57 262.27 375.57 Z M 231.36 416.14 L 231.36 397.62 L 246.82 382.16 L 276.36 411.71 L 279.09 408.98 L 264.04 393.92 L 285.45 372.5 L 308.64 395.69 L 308.64 416.14 Z M 308.64 338.86 L 308.64 390.22 L 286.82 368.41 C 286.07 367.65 284.84 367.65 284.09 368.41 L 261.31 391.19 L 248.18 378.07 C 247.43 377.31 246.21 377.31 245.45 378.07 L 231.36 392.15 L 231.36 338.86 Z M 310.57 335 L 229.43 335 C 228.36 335 227.5 335.86 227.5 336.93 L 227.5 418.07 C 227.5 419.14 228.36 420 229.43 420 L 310.57 420 C 311.64 420 312.5 419.14 312.5 418.07 L 312.5 336.93 C 312.5 335.86 311.64 335 310.57 335 Z" fill="#ed7100" stroke="none" pointer-events="all" style="fill: rgb(237, 113, 0);"/>
+        </g>
+        <g>
+            <rect x="190" y="422" width="140" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 442px; margin-left: 260px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    【美品
+                                    <span style="color: rgb(0, 0, 0);">
+                                        】有名メーカの
+                                    </span>
+                                    <div>
+                                        <span style="color: rgb(0, 0, 0);">
+                                            テニスシューズ
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="260" y="446" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        【美品】有名メーカの
+テニスシューズ
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="227.5" y="460" width="70" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 475px; margin-left: 263px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    5,000円
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="263" y="479" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        5,000円
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="365" y="330" width="160" height="170" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <rect x="402.5" y="335" width="85" height="85" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 437.27 360.11 C 440.47 360.11 443.07 362.71 443.07 365.91 C 443.07 369.1 440.47 371.7 437.27 371.7 C 434.08 371.7 431.48 369.1 431.48 365.91 C 431.48 362.71 434.08 360.11 437.27 360.11 Z M 437.27 375.57 C 442.6 375.57 446.93 371.24 446.93 365.91 C 446.93 360.58 442.6 356.25 437.27 356.25 C 431.95 356.25 427.61 360.58 427.61 365.91 C 427.61 371.24 431.95 375.57 437.27 375.57 Z M 406.36 416.14 L 406.36 397.62 L 421.82 382.16 L 451.36 411.71 L 454.09 408.98 L 439.04 393.92 L 460.45 372.5 L 483.64 395.69 L 483.64 416.14 Z M 483.64 338.86 L 483.64 390.22 L 461.82 368.41 C 461.07 367.65 459.84 367.65 459.09 368.41 L 436.31 391.19 L 423.18 378.07 C 422.43 377.31 421.21 377.31 420.45 378.07 L 406.36 392.15 L 406.36 338.86 Z M 485.57 335 L 404.43 335 C 403.36 335 402.5 335.86 402.5 336.93 L 402.5 418.07 C 402.5 419.14 403.36 420 404.43 420 L 485.57 420 C 486.64 420 487.5 419.14 487.5 418.07 L 487.5 336.93 C 487.5 335.86 486.64 335 485.57 335 Z" fill="#ed7100" stroke="none" pointer-events="all" style="fill: rgb(237, 113, 0);"/>
+        </g>
+        <g>
+            <rect x="365" y="422" width="140" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 442px; margin-left: 435px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    【美品
+                                    <span style="color: rgb(0, 0, 0);">
+                                        】有名メーカの
+                                    </span>
+                                    <div>
+                                        <span style="color: rgb(0, 0, 0);">
+                                            テニスシューズ
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="435" y="446" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        【美品】有名メーカの
+テニスシューズ
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="402.5" y="460" width="70" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 475px; margin-left: 438px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    5,000円
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="438" y="479" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        5,000円
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="16" y="514" width="160" height="170" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <rect x="53.5" y="519" width="85" height="85" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 88.27 544.11 C 91.47 544.11 94.07 546.71 94.07 549.91 C 94.07 553.1 91.47 555.7 88.27 555.7 C 85.08 555.7 82.48 553.1 82.48 549.91 C 82.48 546.71 85.08 544.11 88.27 544.11 Z M 88.27 559.57 C 93.6 559.57 97.93 555.24 97.93 549.91 C 97.93 544.58 93.6 540.25 88.27 540.25 C 82.95 540.25 78.61 544.58 78.61 549.91 C 78.61 555.24 82.95 559.57 88.27 559.57 Z M 57.36 600.14 L 57.36 581.62 L 72.82 566.16 L 102.36 595.71 L 105.09 592.98 L 90.04 577.92 L 111.45 556.5 L 134.64 579.69 L 134.64 600.14 Z M 134.64 522.86 L 134.64 574.22 L 112.82 552.41 C 112.07 551.65 110.84 551.65 110.09 552.41 L 87.31 575.19 L 74.18 562.07 C 73.43 561.31 72.21 561.31 71.45 562.07 L 57.36 576.15 L 57.36 522.86 Z M 136.57 519 L 55.43 519 C 54.36 519 53.5 519.86 53.5 520.93 L 53.5 602.07 C 53.5 603.14 54.36 604 55.43 604 L 136.57 604 C 137.64 604 138.5 603.14 138.5 602.07 L 138.5 520.93 C 138.5 519.86 137.64 519 136.57 519 Z" fill="#ed7100" stroke="none" pointer-events="all" style="fill: rgb(237, 113, 0);"/>
+        </g>
+        <g>
+            <rect x="16" y="606" width="140" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 626px; margin-left: 86px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    【美品
+                                    <span style="color: rgb(0, 0, 0);">
+                                        】有名メーカの
+                                    </span>
+                                    <div>
+                                        <span style="color: rgb(0, 0, 0);">
+                                            テニスシューズ
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="86" y="630" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        【美品】有名メーカの
+テニスシューズ
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="53.5" y="644" width="70" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 659px; margin-left: 89px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    5,000円
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="89" y="663" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        5,000円
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="191" y="514" width="160" height="170" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <rect x="228.5" y="519" width="85" height="85" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 263.27 544.11 C 266.47 544.11 269.07 546.71 269.07 549.91 C 269.07 553.1 266.47 555.7 263.27 555.7 C 260.08 555.7 257.48 553.1 257.48 549.91 C 257.48 546.71 260.08 544.11 263.27 544.11 Z M 263.27 559.57 C 268.6 559.57 272.93 555.24 272.93 549.91 C 272.93 544.58 268.6 540.25 263.27 540.25 C 257.95 540.25 253.61 544.58 253.61 549.91 C 253.61 555.24 257.95 559.57 263.27 559.57 Z M 232.36 600.14 L 232.36 581.62 L 247.82 566.16 L 277.36 595.71 L 280.09 592.98 L 265.04 577.92 L 286.45 556.5 L 309.64 579.69 L 309.64 600.14 Z M 309.64 522.86 L 309.64 574.22 L 287.82 552.41 C 287.07 551.65 285.84 551.65 285.09 552.41 L 262.31 575.19 L 249.18 562.07 C 248.43 561.31 247.21 561.31 246.45 562.07 L 232.36 576.15 L 232.36 522.86 Z M 311.57 519 L 230.43 519 C 229.36 519 228.5 519.86 228.5 520.93 L 228.5 602.07 C 228.5 603.14 229.36 604 230.43 604 L 311.57 604 C 312.64 604 313.5 603.14 313.5 602.07 L 313.5 520.93 C 313.5 519.86 312.64 519 311.57 519 Z" fill="#ed7100" stroke="none" pointer-events="all" style="fill: rgb(237, 113, 0);"/>
+        </g>
+        <g>
+            <rect x="191" y="606" width="140" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 626px; margin-left: 261px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    【美品
+                                    <span style="color: rgb(0, 0, 0);">
+                                        】有名メーカの
+                                    </span>
+                                    <div>
+                                        <span style="color: rgb(0, 0, 0);">
+                                            テニスシューズ
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="261" y="630" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        【美品】有名メーカの
+テニスシューズ
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="228.5" y="644" width="70" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 659px; margin-left: 264px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    5,000円
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="264" y="663" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        5,000円
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="366" y="514" width="160" height="170" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <rect x="403.5" y="519" width="85" height="85" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 438.27 544.11 C 441.47 544.11 444.07 546.71 444.07 549.91 C 444.07 553.1 441.47 555.7 438.27 555.7 C 435.08 555.7 432.48 553.1 432.48 549.91 C 432.48 546.71 435.08 544.11 438.27 544.11 Z M 438.27 559.57 C 443.6 559.57 447.93 555.24 447.93 549.91 C 447.93 544.58 443.6 540.25 438.27 540.25 C 432.95 540.25 428.61 544.58 428.61 549.91 C 428.61 555.24 432.95 559.57 438.27 559.57 Z M 407.36 600.14 L 407.36 581.62 L 422.82 566.16 L 452.36 595.71 L 455.09 592.98 L 440.04 577.92 L 461.45 556.5 L 484.64 579.69 L 484.64 600.14 Z M 484.64 522.86 L 484.64 574.22 L 462.82 552.41 C 462.07 551.65 460.84 551.65 460.09 552.41 L 437.31 575.19 L 424.18 562.07 C 423.43 561.31 422.21 561.31 421.45 562.07 L 407.36 576.15 L 407.36 522.86 Z M 486.57 519 L 405.43 519 C 404.36 519 403.5 519.86 403.5 520.93 L 403.5 602.07 C 403.5 603.14 404.36 604 405.43 604 L 486.57 604 C 487.64 604 488.5 603.14 488.5 602.07 L 488.5 520.93 C 488.5 519.86 487.64 519 486.57 519 Z" fill="#ed7100" stroke="none" pointer-events="all" style="fill: rgb(237, 113, 0);"/>
+        </g>
+        <g>
+            <rect x="366" y="606" width="140" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 626px; margin-left: 436px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    【美品
+                                    <span style="color: rgb(0, 0, 0);">
+                                        】有名メーカの
+                                    </span>
+                                    <div>
+                                        <span style="color: rgb(0, 0, 0);">
+                                            テニスシューズ
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="436" y="630" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        【美品】有名メーカの
+テニスシューズ
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="403.5" y="644" width="70" height="30" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 659px; margin-left: 439px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    5,000円
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="439" y="663" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        5,000円
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="227.5" y="700" width="92.5" height="30" rx="4.5" ry="4.5" fill="#f5f5f5" stroke="#666666" pointer-events="all" style="fill: rgb(245, 245, 245); stroke: rgb(102, 102, 102);"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 91px; height: 1px; padding-top: 715px; margin-left: 229px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #333333; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #333333; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    さらに表示
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="274" y="719" fill="#333333" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        さらに表示
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 610 1.25 L 720 1.25 L 740 21.25 L 740 86.75 L 610 86.75 L 610 1.25 Z" fill="#fff2cc" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="fill: rgb(255, 242, 204); stroke: rgb(214, 182, 86);"/>
+            <path d="M 720 1.25 L 720 21.25 L 740 21.25" fill="none" stroke="#d6b656" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="stroke: rgb(214, 182, 86);"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 128px; height: 1px; padding-top: 44px; margin-left: 611px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #666600; ">
+                                <div style="display: inline-block; font-size: 14px; font-family: &quot;Helvetica&quot;; color: #666600; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    ログインしていない場合は、ログイン/サインイン リンクを表示する
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="675" y="48" fill="#666600" font-family="&quot;Helvetica&quot;" font-size="14px" text-anchor="middle">
+                        ログインしていない場合は、ログイン/サインイン リンクを表示する
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 600 60.42 L 495 64" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke" style="stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <rect x="228.5" y="540" width="89" height="26" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 87px; height: 1px; padding-top: 553px; margin-left: 230px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FF3333; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #FF3333; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    SOLD
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="273" y="557" fill="#FF3333" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        SOLD
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="224.5" y="370" width="89" height="26" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 87px; height: 1px; padding-top: 383px; margin-left: 226px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FF3333; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #FF3333; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    SOLD
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="269" y="387" fill="#FF3333" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        SOLD
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="374" y="22" width="100" height="40" fill="#ffffff" stroke="none" pointer-events="all" style="fill: rgb(255, 255, 255);"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 42px; margin-left: 375px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    ユーザAさん
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="424" y="46" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        ユーザAさん
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="490" y="22" width="20" height="20" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 490 42 C 490.14 40.55 490.34 39.1 490.6 37.65 C 490.71 36.61 490.99 35.59 491.43 34.61 C 491.67 34.17 492.04 33.78 492.51 33.5 C 493.29 33.09 494.13 32.76 495.01 32.55 C 495.39 32.45 495.8 32.55 496.07 32.81 C 497.1 33.76 498.57 34.25 500.08 34.15 C 501.53 34.22 502.95 33.73 503.96 32.81 C 504.28 32.53 504.75 32.43 505.19 32.55 C 506.02 32.81 506.82 33.14 507.57 33.55 C 508.25 34 508.72 34.65 508.92 35.37 C 509.22 36.41 509.43 37.46 509.55 38.52 L 510 42 Z M 500.13 31.72 C 497.39 31.78 495.12 29.67 495.06 27 C 495.02 25.68 495.54 24.4 496.49 23.46 C 497.45 22.52 498.76 22 500.13 22.03 C 501.44 22.07 502.69 22.61 503.59 23.55 C 504.5 24.48 504.98 25.72 504.94 27 C 504.88 29.57 502.76 31.64 500.13 31.72" fill="#505050" stroke="none" pointer-events="all" style="fill: rgb(80, 80, 80);"/>
+        </g>
+        <g>
+            <rect x="450" y="30" width="100" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 50px; margin-left: 451px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    マイページ
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="500" y="54" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        マイページ
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="331" y="80" width="60" height="30" rx="4.5" ry="4.5" fill="#f5f5f5" stroke="#666666" pointer-events="all" style="fill: rgb(245, 245, 245); stroke: rgb(102, 102, 102);"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 95px; margin-left: 332px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #333333; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: #333333; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    検索
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="361" y="99" fill="#333333" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        検索
+                    </text>
+                </switch>
+            </g>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
