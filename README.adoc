@@ -8,8 +8,8 @@
 
 サンプルアプリケーションは、以下のリポジトリで実装しています。
 
-* https://github.com/genba-oriented/gea-frontend[Good Enough Architecture ~ Frontend]
-* https://github.com/genba-oriented/gea-backend-api[Good Enough Architecture ~ Backend API]
+* https://github.com/genba-oriented/gea-frontend[Good Enough Architecture ~ Frontend^]
+* https://github.com/genba-oriented/gea-backend-api[Good Enough Architecture ~ Backend API^]
 
 
 
