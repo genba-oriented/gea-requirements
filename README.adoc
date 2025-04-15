@@ -1,12 +1,23 @@
 = Good Enough Architecture ~ フリマアプリ 要件定義
 
 == 本リポジトリについて
-本リポジトリは、フリーマーケットを題材にした「フリマアプリ」というサンプルアプリケーションの要件定義です。要件定義の内容は、特に1箇所にまとめるなどはしていませんので、個別のadocファイルをご参照ください。
+本リポジトリは、フリーマーケットを題材にした「フリマアプリ」というサンプルアプリケーションの要件定義です。
 
 サンプルアプリケーションは、以下のリポジトリで実装しています。
 
 * https://github.com/genba-oriented/gea-frontend[Good Enough Architecture ~ Frontend^]
 * https://github.com/genba-oriented/gea-backend-api[Good Enough Architecture ~ Backend API^]
+
+
+要件定義の内容は、以下の流れで読み進めるとイメージしやすいと思います。
+
+. link:システム概要.drawio.svg[]
+. link:業務フローとユースケース.drawio.svg[]
+. link:ER図.drawio.svg[]
+. 「ユースケース詳細」内のadocファイル、あわせて「画面イメージ」内のsvgファイル
+
+
+
 
 
 
