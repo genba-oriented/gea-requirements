@@ -1,4 +1,8 @@
-= Good Enough Architecture ~ フリマアプリ 要件定義
+== ⚠️本リポジトリは移動しました。
+新しいリポジトリは、 https://github.com/genba-oriented/gea です。
+
+
+== Good Enough Architecture ~ フリマアプリ 要件定義
 
 == 本リポジトリについて
 本リポジトリは、フリーマーケットを題材にした「フリマアプリ」というサンプルアプリケーションの要件定義です。
